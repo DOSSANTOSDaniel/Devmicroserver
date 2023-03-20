@@ -4,6 +4,18 @@ Un mini-environnement de développement web pour débutant ou juste tester rapid
 ## Fonctionnalitées:
 * Démarre un serveur web minimaliste.
 * Crée une arborescence de dossiers s'ils n'existent pas.
+````
+MicroServer/
+├── exemple.html
+├── multimédia
+│   ├── audios
+│   ├── autres
+│   ├── ebooks
+│   ├── images
+│   └── vidéos
+└── styles
+    └── exemple.css
+````
 * Lance une page firefox sur le dossier de travail.
 * Crée un fichier d'exemple HTML et un fichier Css.
 * La page du navigateur se rafraichie automatiquement à chaque modification.

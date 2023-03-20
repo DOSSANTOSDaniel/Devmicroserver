@@ -24,6 +24,9 @@ MicroServer/
 ```bash
 ./devmicroserver.sh
 ```
+1. Lancer le script là où vous voulez placer votre environnement de développement.
+2. Quand la page du navigateur s'affiche cliquer sur le fichier .html pour afficher vôtre site.
+3. Ouvrez votre éditeur de code et commencer à coder vos pages. 
 
 ## Limits:
 *  Fonctionne seulement sur les distribution dérivées de Debian.
